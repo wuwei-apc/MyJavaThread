@@ -4,6 +4,9 @@
 # out class
 out/
 
+# idea 
+.idea/
+
 # Log file
 *.log
 
